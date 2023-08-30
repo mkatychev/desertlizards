@@ -1,0 +1,3 @@
+[submodule "seagull"]
+	path = themes/seagull
+	url = https://git.42l.fr/HugoTrentesaux/seagull.git

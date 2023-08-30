@@ -1,0 +1,23 @@
+{% extends "anpu-zola-theme/templates/index.html" %}
+
+{% block pages %}
+  {% set section = get_section(path="_index.md") %}
+  <div class="toc">
+    <div>
+        <div class="toc-item">
+          <a class="subtext" href="{{ config.base_url }}"><b>Home</b></a>
+        </div>
+      {% for page in section.pages %}
+        <div class="toc-item">
+            <a class="subtext" href="{{page.path | safe}}">{{ page.title }}</a>
+        </div>
+      {% endfor %}
+      {% for section_path in section.subsections %}
+        {% set sub_section = get_section(path=section_path) %}
+        <div class="toc-item">
+            <a class="subtext" href="{{sub_section.path | safe}}">{{ sub_section.title }}</a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endblock pages %}

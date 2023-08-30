@@ -1,0 +1,4 @@
+{% set image = resize_image(path=path, width=width, op="fit_width") %}
+<div class="{{ class }}">
+  <img src="{{ image.url }}" class="center"/>
+</div>

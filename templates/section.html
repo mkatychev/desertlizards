@@ -1,0 +1,70 @@
+{% extends "anpu-zola-theme/templates/index.html" %}
+
+{% import "macros/page.html" as page_macros %}
+<!DOCTYPE html>
+<html lang="{% if lang %}{{ lang }}{% else %}en{% endif %}">
+<head>
+    <meta charset="utf-8">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <meta name="description" content="{{ config.description }}">
+
+    <link rel="stylesheet" href="{{ get_url(path="main.css", trailing_slash=false) }}">
+
+    {% if config.generate_feed %}
+        <link rel="alternate" type={% if config.feed_filename == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
+    {% endif %}
+
+    {% block extra_head %}
+    {% endblock extra_head %}
+</head>
+<body>
+    <a class="skip-main" href="#main">Skip to content</a>
+    <div class="container">
+        <header>
+            <h1 class="site-header">
+                <a href="{{ config.base_url }}">{{ config.title }}</a>
+            </h1>
+        </header>
+        <main id="main" tabindex="-1">
+        {% block pages %}
+          <div class="toc">
+            <div>
+                <div class="toc-item">
+                  <a class="subtext" href="{{ config.base_url }}"><b>Home</b></a>
+                </div>
+              {% for page in section.pages %}
+                <div class="toc-item">
+                    <a class="subtext" href="{{page.path | safe}}">{{ page.title }}</a>
+                </div>
+              {% endfor %}
+              {% set extra = get_section(path="extra/_index.md") %}
+                <div class="toc-item">
+                    <a class="subtext" href="{{extra.path | safe}}">{{ extra.title }}</a>
+                </div>
+            </div>
+          </div>
+        {% endblock pages %}
+
+          <div class="content">
+          {% block content %}
+              {{ section.content | safe }}
+          {% endblock content %}
+          </div>
+        <div class="right"> </div>
+        </main>
+        <footer>
+            <p>
+                <a target="_blank" href="https://ericpianka.com/">In Memory of Eric Pianka</a>
+            </p>
+            <p>
+                {% block footer %}
+                {% endblock footer %}
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

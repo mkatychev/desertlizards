@@ -1,0 +1,9 @@
+{% set image = resize_image(path=path, width=width, op="fit_width") %}
+<div class="featured">
+
+  <img src="{{ image.url }}" class="center"/>
+
+  <div class="featuredCaption">
+    {{ body | markdown | safe }}
+  </div>
+</div>
