@@ -222,17 +222,17 @@ heterogeneity and species diversity, and might even lead to local extinctions.
 ## References
 
 - Pianka, E.R. 1969. Habitat specificity, speciation, and species density in
-Australian desert lizards. *Ecology* 50: 498-502. [Download pdf](HabSpec.pdf).
+Australian desert lizards. *Ecology* 50: 498-502. [Download pdf](../HabSpec.pdf).
 
 - Pianka, E. R. 1973. The structure of lizard communities. *Annual Review of
 Ecology and Systematics* 4: 53-74. Selected as "This Week's Citation Classic"
 in *Current Contents* (Agriculture, Biology & Environmental Sciences) (1988),
 volume 19 (number 35): page 18. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/ARES.pdf).
+pdf](../ARES.pdf).
 
 - Pianka, E. R. 1974. Niche overlap and diffuse competition. *Proc. Nat. Acad
 Sci.* 71: 2141-2145. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/POZS1974.pdf).
+pdf](../POZS1974.pdf).
 
 - Pianka, E. R. 1975. Niche relations of desert lizards. Chapter 12 (pp.
 292-314) in M. Cody and J. Diamond (eds.) *Ecology and Evolution of
@@ -245,17 +245,16 @@ Princeton, New Jersey.
 - Pianka, E. R. 1996. Long-term changes in Lizard Assemblages in the Great
 Victoria Desert: Dynamic Habitat Mosaics in Response to Wildfires. Chapter 8
 (pp. 191-215) in M. L. Cody and J. A. Smallwood (eds.) *Long-term studies of
-vertebrate communities.* Academic Press. [Download pdf](Long-term.pdf).
+vertebrate communities.* Academic Press. [Download pdf](../Long-term.pdf).
 
 - Pianka, E. R. and S. E. Goodyear. 2012. Lizard responses to wildfire in arid
 interior Australia: Long-term experimental data and commonalities with other
 studies. *Austral Ecology* 37: 1-11. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/FireEcologyAustralEcology2012.pdf).
+pdf](../FireEcologyAustralEcology2012.pdf).
 
 - Pianka, E. R. and R. B. Huey. 1971. Bird species density in the Kalahari and
 the Australian deserts. *Koedoe* 14: 123-130. [Download
-pdf](http://www.zo.utexas.edu/courses/bio373/Koedoe.1971.pdf).
+pdf](../Koedoe.1971.pdf).
 
 - Pianka, H. D. and E. R. Pianka. 1970. Bird censuses from desert localities in
-Western Australia. *Emu* 70: 17-22. [Download
-pdf](http://www.zo.utexas.edu/courses/bio373/Emu.1970.pdf).
+Western Australia. *Emu* 70: 17-22. [Download pdf](../Emu.1970.pdf).

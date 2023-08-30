@@ -167,7 +167,7 @@ I thank Ray Huey for invaluable assistance in curating these data.
 - Leistner, O. A. 1967. The plant ecology of the southern Kalahari. Botanical
 Survey of South Africa, Memoirs 38: 1-172.
 
-- Pianka, E.R. 1971. Lizard species density in the Kalahari desert. Ecology 52: 1024-1029. [Download pdf](Kalahari.pdf).
+- Pianka, E.R. 1971. Lizard species density in the Kalahari desert. Ecology 52: 1024-1029. [Download pdf](../Kalahari.pdf).
 
 - Pianka, E. R. and R. B. Huey. 1971. Bird species density in the Kalahari and
 the Australian deserts. Koedoe 14: 123-130. [Download

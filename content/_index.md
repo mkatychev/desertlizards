@@ -269,13 +269,13 @@ pdf](http://www.zo.utexas.edu/courses/THOC/SEG+ERP-Ctenotus2011.pdf).
 - Haydon, D. T., J. K. Friar, and E. R. Pianka. 2000a. Fire Driven Dynamic
 Mosaics in the Great Victoria Desert I: Fire Geometry. *Landscape Ecology* 15:
 373-381. [Abstract](http://www.zo.utexas.edu/courses/THOC/Fires1.html).
-[Download pdf](http://www.zo.utexas.edu/courses/THOC/mosaics1.pdf).
+[Download pdf](mosaics1.pdf).
 
 - Haydon, D. T., J. K. Friar, and E. R. Pianka. 2000b. Fire Driven Dynamic
 Mosaics in the Great Victoria Desert II: A spatial and temporal landscape
 model. *Landscape Ecology* 15: 407-423.
 [Abstract](http://www.zo.utexas.edu/courses/THOC/Fires2.html). [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/mosaics2.pdf).
+pdf](mosaics2.pdf).
 
 - Huey, R. B. and J. J. Tewksbury. 2009. Can behavior douse the fire of climate
 warming? *Proc. Nat. Acad. Sci.* 106: 3647-3648. [Download
@@ -286,17 +286,17 @@ Studies of a Model Organism.* Harvard University Press. 501 pp.
 
 - Huey, R. B., E. R. Pianka, and L. J. Vitt. 2001. How often do lizards "run on
 empty?" *Ecology* 82: 1-7. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/MT.pdf).
+pdf](MT.pdf).
 
 - Jennings, W. B., E. R. Pianka, and S. Donnellan. 2003. Systematics of the
 lizard family Pygopodidae with implications for the diversification of
 Australian temperate biotas. *Systematic Biology* 52: 757-780. [Download
-pdf](http://www.zo.utexas.edu/faculty/pianka/Pygopodids.2003.pdf).
+pdf](Pygopodids.2003.pdf).
 
 - Kearney, M., R. Shine, and W. Porter. 2009. The potential for behavioral
 thermoregulation to buffer "cold-blooded" animals against climate warming.
 *Proc. Nat. Acad. Sci.* 106: 3835-3840. [Download
-pdf](http://www.pnas.org/content/106/10/3835.full.pdf+html).
+pdf](3835.full.pdf).
 
 - Leistner, O. A. 1967. The plant ecology of the southern Kalahari. *Botanical
 Survey of South Africa, Memoirs* 38: 1-172.
@@ -308,40 +308,40 @@ species in natural species abundance distributions. *Nature* 422 (6933):
 - Main, A. R. 1982. Rare species: precious or dross? In Graves, R. H. and W. D.
 L. Ride (eds): *Species at risk: Research in Australia*, pp. 163-174.
 Australian Academy of Science, Canberra. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/Main-Rarity.pdf).
+pdf](Main-Rarity.pdf).
 
 - Milstead, W. W. (ed.). 1966. *Lizard Ecology: A Symposium.* University of
 Missouri Press, Columbia. 300 pp.
 
 - Morton, S. R. and C. D. James 1988. The diversity and abundance of lizards in
 arid Australia: a new hypothesis. *American Naturalist*, 132: 237-256.
-[Download pdf](http://www.zo.utexas.edu/courses/THOC/MortonJames.pdf).
+[Download pdf](MortonJames.pdf).
 
 - Pianka, E. R. 1966. Convexity, desert lizards, and spatial heterogeneity.
 *Ecology* 47: 1055-1059. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/convexity-1966.pdf).
+pdf](convexity-1966.pdf).
 
 - Pianka, E.R. 1967. On lizard species diversity: North American flatland
 deserts. *Ecology* 48: 333-351. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/NAlizdiv.pdf).
+pdf](NAlizdiv.pdf).
 
 - Pianka, E.R. 1969. Habitat specificity, speciation, and species density in
 Australian desert lizards. *Ecology* 50: 498-502. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/HabSpec.pdf).
+pdf](HabSpec.pdf).
 
 - Pianka, E.R. 1971. Lizard species density in the Kalahari desert. *Ecology*
 52: 1024-1029. [Download
-pdf](http://www.zo.utexas.edu/faculty/pianka/Kalahari.pdf).
+pdf](Kalahari.pdf).
 
 - Pianka, E. R. 1973. The structure of lizard communities. *Annual Review of
 Ecology and Systematics* 4: 53-74. Selected as "This Week's Citation Classic"
 in *Current Contents* (Agriculture, Biology & Environmental Sciences) (1988),
 volume 19 (number 35): page 18. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/ARES.pdf).
+pdf](ARES.pdf).
 
 - Pianka, E. R. 1974. Niche overlap and diffuse competition. *Proc. Nat. Acad
 Sci.* 71: 2141-2145. [Download
-pdf](http://www.zo.utexas.edu/courses/THOC/PNAS1974.pdf).
+pdf](PNAS1974.pdf).
 
 - Pianka, E. R. 1975. Niche relations of desert lizards. Chapter 12 (pp.
 292-314) in M. Cody and J. Diamond (eds.) *Ecology and Evolution of

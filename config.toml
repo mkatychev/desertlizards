@@ -1,6 +1,7 @@
 # The URL the site will be built for
 base_url = "https://desertlizards.dev"
 title = "Pianka's Desert Lizard Database"
+icon = "faicon.ico"
 
 theme = "anpu-zola-theme"
 
