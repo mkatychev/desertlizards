@@ -22,23 +22,3 @@ template = "extra.html"
 | [Model 11](./model11) | 4 Geographic Regions |
 
 </div>
-
-### Exploring the Lizard Niche Hypervolume
-
-![](downloads/Site_Images/Chameleo.png)
-
-![](downloads/Site_Images/Moloch.gif)
-
-![](downloads/Site_Images/Tupinambis_teguixin.jpg)
-
-![](downloads/Site_Images/Ctenophorus_fordi.jpg)
-
-    **Scroll up or down to zoom, click and drag to rotate***
-
-![](downloads/Site_Images/Polychrus_acutirostris.jpg)
-
-![](downloads/Site_Images/Phrynosoma.gif)
-
-![](downloads/Site_Images/Varanus_gouldii.jpg)
-
-![](downloads/Site_Images/Uma_scoparia.jpg)
