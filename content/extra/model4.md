@@ -1,6 +1,5 @@
 +++
 title = "Foraging Mode plus Trophic Dimension"
 template = "model.html"
+description = "model4"
 +++
-
-<script src="model4.js" type="text/javascript"></script>

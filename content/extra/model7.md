@@ -1,6 +1,5 @@
 +++
 title = "Arboreal vs. Terrestrial"
 template = "model.html"
+description = "model7"
 +++
-
-<script src="model7.js" type="text/javascript"></script>
