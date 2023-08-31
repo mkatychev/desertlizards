@@ -296,7 +296,7 @@ pdf](Pygopodids.2003.pdf).
 - Kearney, M., R. Shine, and W. Porter. 2009. The potential for behavioral
 thermoregulation to buffer "cold-blooded" animals against climate warming.
 *Proc. Nat. Acad. Sci.* 106: 3835-3840. [Download
-pdf](3835.full.pdf).
+pdf](3835.pdf).
 
 - Leistner, O. A. 1967. The plant ecology of the southern Kalahari. *Botanical
 Survey of South Africa, Memoirs* 38: 1-172.
