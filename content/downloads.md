@@ -4,8 +4,6 @@ title = "Downloads"
 
 ## Eric Pianka's research data can be downloaded [here](https://drive.proton.me/urls/BREHCTDGCG#NGGXPKwt8hQP)
 
- <iframe src="https://drive.proton.me/urls/BREHCTDGCG#NGGXPKwt8hQP" title="W3Schools Free Online Web Tutorials"></iframe>
-
 
 ## Description
 
