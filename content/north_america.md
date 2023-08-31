@@ -156,6 +156,6 @@ also assembled ([Pianka
 
 ## References
 
-* Pianka, E. R. 1966. Convexity, desert lizards, and spatial heterogeneity. Ecology 47: 1055-1059. [Download pdf](convexity.pdf).
+* Pianka, E. R. 1966. Convexity, desert lizards, and spatial heterogeneity. Ecology 47: 1055-1059. [Download pdf](convexity-1966.pdf).
 
 * Pianka, E.R. 1967. On lizard species diversity: North American flatland deserts. Ecology 48: 333-351. [Download pdf](NAlizdiv.pdf).

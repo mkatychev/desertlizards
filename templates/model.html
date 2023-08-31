@@ -37,15 +37,15 @@
                   <div class="toc-item">
                     <a class="subtext" href="{{ config.base_url }}"><b>Home</b></a>
                   </div>
+                {% for page in section.pages %}
+                  <div class="toc-item">
+                      <a class="subtext" href="{{page.path | safe}}">{{ page.title }}</a>
+                  </div>
+                {% endfor %}
                 {% for section_path in section.subsections %}
                   {% set sub_section = get_section(path=section_path) %}
                   <div class="toc-item">
                     <a class="subtext" href="{{sub_section.path | safe}}"><i>Return</i></a>
-                  </div>
-                {% endfor %}
-                {% for page in section.pages %}
-                  <div class="toc-item">
-                      <a class="subtext" href="{{page.path | safe}}">{{ page.title }}</a>
                   </div>
                 {% endfor %}
               </div>
@@ -148,6 +148,7 @@
           {% endblock content %}
           <script>rgl.drawScene();</script>
           <h2>[ scroll up or down to zoom, click and drag to rotate ]</h2>
+
           </div>
         </main>
         <footer>

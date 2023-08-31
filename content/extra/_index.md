@@ -3,9 +3,16 @@ title = "Additional Content"
 template = "extra.html"
 +++
 
-# Models
+# Exploring the Lizard Niche Hypervolume
+<table style="display:inline-block;">
+    <tr><td><img src ="Chameleo.gif" width =200></td></tr>
+    <tr><td><img src ="Moloch.gif" width =200></td></tr>
+    <tr><td><img src ="Tupinambis_teguixin.jpg" width =160></td></tr>
+    <tr><td><img src ="Ctenophorus_fordi.jpg" width =165></td></tr>
+</table>
 
-<div id="models">
+<div id="models" style="display:inline-block">
+
 
 | model | description |
 | --- | --- |
@@ -22,3 +29,10 @@ template = "extra.html"
 | [Model 11](./model11) | 4 Geographic Regions |
 
 </div>
+
+<table style="display:inline-block;">
+    <tr><td><img src ="Polychrus_acutirostris.gif" width =250></td></tr>
+    <tr><td><img src ="Phrynosoma.gif" width =135></td></tr>
+    <tr><td><img src ="Varanus_gouldii.jpg" width =165></td></tr>
+    <tr><td><img src ="Uma_scoparia.jpg" width =165></td></tr>
+</table>

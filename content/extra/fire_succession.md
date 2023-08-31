@@ -30,7 +30,7 @@ Fire Succession on the B-area
 
 ![](http://www.zo.utexas.edu/courses/THOC/australia_fire_1.jpg)![](http://www.zo.utexas.edu/courses/THOC/SpinifexFire.jpg)
 Martu hunter burning spinifex to find Sand Monitor
-lizards![](yspace.jpg)Spinifex fires can be extensive (Photo by Allan Fox).
+lizards. Spinifex fires can be extensive (Photo by Allan Fox).
 _Varanus gouldii_ (Photo courtesy Rebecca Bliege Bird) Most fires are started
 by lightning, and can burn for weeks across thousands of square kilometers of
 uninhabited desert. Australia is probably the last place on Earth where
@@ -78,7 +78,7 @@ burns to attempt to maintain an appropriate fine-grained mixture of habitats of
 different ages since fire.
 
 
-{{ resize_image(path="B_area_small.jpg", width=250, op="fit_width",
+{{ resize_image(path="B-areaPits.jpg", width=250, op="fit_width",
 class="floatRight") }}
 
 

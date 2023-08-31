@@ -304,10 +304,6 @@ ul ol, ol ol, ul ul {
 /* Header */
 
 
-.legend {
- display: inline-block;
-}
-
 header {
   background-color: var(--primary-color);
   color: var(--primary-text-color);
@@ -559,6 +555,14 @@ blockquote p {
   vertical-align:top;
   padding-top:5px;
   padding-right:5px;
+
+  tr:nth-of-type(2n) {
+    background:#ecf8ff;
+  }
+
+  tr:nth-of-type(2n+1) {
+    background:#eee;
+  }
 }
 #legend td {
   padding:.05rem;
