@@ -1,6 +1,5 @@
 +++
 title = "Body Temp x Ambient Temp Slope"
 template = "model.html"
+description = "model8"
 +++
-
-<script src="model8.js" type="text/javascript"></script>

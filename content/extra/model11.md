@@ -1,6 +1,5 @@
 +++
 title = "4 Geographic Regions"
 template = "model.html"
+description = "model11"
 +++
-
-<script src="model11.js" type="text/javascript"></script>

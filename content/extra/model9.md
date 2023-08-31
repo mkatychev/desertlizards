@@ -1,6 +1,5 @@
 +++
 title = "Clutch Frequency"
 template = "model.html"
+description = "model9"
 +++
-
-<script src="model9.js" type="text/javascript"></script>

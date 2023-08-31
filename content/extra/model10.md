@@ -1,6 +1,5 @@
 +++
 title = "Foraging Mode"
 template = "model.html"
+description = "model10"
 +++
-
-<script src="model10.js" type="text/javascript"></script>

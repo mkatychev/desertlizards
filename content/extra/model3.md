@@ -1,6 +1,5 @@
 +++
 title = "Habitat Types"
 template = "model.html"
+description = "model3"
 +++
-
-<script src="model3.js" type="text/javascript"></script>

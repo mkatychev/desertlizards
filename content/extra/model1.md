@@ -1,6 +1,5 @@
 +++
 title = "51 niche dimensions"
 template = "model.html"
+description = "model1"
 +++
-
-<script src="model1.js" type="text/javascript"></script>
