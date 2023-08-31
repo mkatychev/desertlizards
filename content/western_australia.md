@@ -5,7 +5,7 @@ title = "Western Australia"
 
 {% featured() %}
 <div class="mapContainer">
-<iframe class="map" src="https://www.google.com/maps/d/embed?mid=zpIWQxRgYrSw.kFqOL5tGUshk&hl=en&ll=-27.40103,122.31079&z=6" width="640" height="480"></iframe>
+<iframe class="map" src="https://www.google.com/maps/d/embed?mid=zpIWQxRgYrSw.kFqOL5tGUshk&hl=en&ll=-27.40103,122.31079&z=6"></iframe>
 </div>
 
 **Great Victoria Desert Study Areas**
